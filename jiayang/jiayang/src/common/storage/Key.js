@@ -1,0 +1,2 @@
+
+export const ueranme = 'ueranme'
