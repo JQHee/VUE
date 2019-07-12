@@ -35,8 +35,14 @@ cnpm run dev
 - vue搭建小游戏：https://juejin.im/post/5d22b3ade51d4577770e73f1
 
 #### 三、UI组件
+手机端
+- vant：https://github.com/youzan/vant
 - 手机端Vux: https://github.com/airyland/vux
 - 面向金融场景的Vue移动端UI组件库: https://github.com/didi/mand-mobile
 - 移动端UI组件, material-design的风格:https://github.com/vuematerial/vue-material
-- 
-- 网页端：https://github.com/JosephusPaye/Keen-UI
+- 基于 Vue.js 实现的精致移动端组件库, 由滴滴内部组件库精简提炼而来： https://didi.github.io/cube-ui/#/zh-CN
+- 手机端：https://github.com/JosephusPaye/Keen-UI
+
+BS端
+- element：https://element.eleme.cn/#/zh-CN/component/installation
+- iview：https://github.com/iview/iview
