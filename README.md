@@ -48,7 +48,8 @@ BS端
 - iview：https://github.com/iview/iview
 
 对应框架的实战项目
-- vant: https://github.com/noobzzzz/vantmbshop、https://segmentfault.com/a/1190000016936323
+- vant简单商城功能: https://github.com/noobzzzz/vantmbshop、https://segmentfault.com/a/1190000016936323
+- vant: https://github.com/wqb2017/vue-vant-axios
 
 #### 四、登录拦截
 - https://www.jianshu.com/p/5d7e9181fc70
